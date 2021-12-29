@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("./p2.jpg");
+  background-image: url("./k1.png");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 190px;
-  color: #1B2248;
+  color: #39a6e6;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #3F153E;
+  background-color: #153f3f;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;

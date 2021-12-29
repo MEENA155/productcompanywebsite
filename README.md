@@ -37,6 +37,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 ## HOME PAGE:
 ```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -47,7 +48,7 @@ Publish the website in the given URL.
 
   <body>
     <div class="container">
-      <div class="banner">Phone store</div>
+      <div class="banner">SOFTWARE</div>
       <div class="menu">
         <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>
@@ -57,20 +58,20 @@ Publish the website in the given URL.
       <div class="content">
         <div class="homecontent">
           <h1>About Us</h1>
-          <img src="./img/phn1.jpg" alt="Building" />
+          <img src="./img/pk.png" alt="Building" />
           <div class="contenttext">
-            Mobile phones are no more merely a part of our lives.
-             Whether it's to stay connected with friends and family or to keep abreast of important developments around the world, 
-             mobiles are no longer for sending a text or making a call. 
-             From budget to state-of-the-art smartphones; indigenous names to global big-wigs - a whole universe of mobiles await you on Flipkart
+            With Our Latest Updates, It's Easier Than Ever To Create Whatever You Can Imagine. 
+            Apps And Services. Connected All In One Place. Join Creative Cloud Today. Step-by-step tutorials.
+             Free product updates. Free trial downloads. Up to 100GB of storage. All CC apps & more.
+
             <br />
-            waterdrop notch screens, a high screen to body ratio, AI-powered sensational cameras, high storage capacity, 
-            blazing quick processing engines or reflective glass designs,
-             rest assured you won't have to venture anywhere else for your smartphone needs
+            Adobe is changing the world through digital experiences.
+             We help our customers create, deliver and optimize content and applications.
+
             <ul>
-              <li>Best offers with affordable prices</li>
-              <li>Quality mobiles with guarantee</li>
-              <li>Trustworthy shop </li>
+              <li>Simple to learn</li>
+              <li>Insightful, actionable & customizable reports</li>
+              <li>Simple to learn </li>
             </ul>
           </div>
         </div>
@@ -82,8 +83,11 @@ Publish the website in the given URL.
   </body>
 </html>
  
+ 
 ## PRODUCT PAGE:
-<!DOCTYPE html>
+
+    
+          <!DOCTYPE html>
 <html lang="en">
   <head>
     <title>EduSoft Private Limited</title>
@@ -93,7 +97,7 @@ Publish the website in the given URL.
 
   <body>
     <div class="container">
-      <div class="banner">LAPTOPS</div>
+      <div class="banner">ADOBE</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected">
@@ -108,100 +112,101 @@ Publish the website in the given URL.
           <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="./img/s1.jpeg" alt="product image">
+                  <img src="./img/a1.png" alt="product image">
                   </div>
-                  <div class="itemname">realme C25Y</div>
-                  <div class="itemprice">Price: Rs.80,000 </div>
+                  <div class="itemname">Adobe fresco</div>
+                  <div class="itemprice">Price: Rs.5000</div>
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="./img/s2.jpeg"  alt="product image">
+                  <img src="./img/a2.png"  alt="product image">
                   </div>
-                  <div class="itemname">REALME 8I</div>
-                  <div class="itemprice">Price: Rs.90,000 </div>
+                  <div class="itemname">Adobe Dimenssions</div>
+                  <div class="itemprice">Price: Rs.7000</div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
-                <img src="./img/s3.jpeg"  alt="product image">
+                <img src="./img/a3.png"  alt="product image">
                 </div>
-                <div class="itemname">OPPO A12</div>
+                <div class="itemname">Adobe Rusk</div>
+                <div class="itemprice">Price: Rs.7500</div>
                 </div>
-                <div class="itemprice">Price: Rs.90,000 </div>
             </div>
             <div class="productitem"> 
               <div class="itemimage">
-              <img src="./img/S4.jpeg"  alt="product image">
+              <img src="./img/a4.png"  alt="product image">
               </div>
-              <div class="itemname">OPPO A16</div>
-              <div class="itemprice">Price: Rs.1,25,000 </div>
+              <div class="itemname">Adobe Substance</div>
+              <div class="itemprice">Price: Rs.6000</div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="./img/S5.jpeg"  alt="product image">
+            <img src="./img/a5.jpg"  alt="product image">
             </div>
-            <div class="itemname">OPPO A74</div>
-            <div class="itemprice">Price: Rs.1,60,000 </div>
+            <div class="itemname">Adobe Indesign</div>
+            <div class="itemprice">Price: Rs.4500</div>
         </div>
         <div class="productitem"> 
           <div class="itemimage">
-          <img src="./img/S6.jpeg"  alt="product image">
+          <img src="./img/a6.png"  alt="product image">
           </div>
-          <div class="itemname">SAMSUNG S20 FE</div>
-          <div class="itemprice">Price: Rs.80,000 </div>
+          <div class="itemname">Adobe lightroom</div>
+          <div class="itemprice">Price: Rs.4000</div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
-        <img src="./img/S7.jpeg"  alt="product image">
+        <img src="./img/a7.jpg"  alt="product image">
         </div>
-        <div class="itemname">SAMSUNG GALAXY M01</div>
-        <div class="itemprice">Price: Rs.66,000 </div>
+        <div class="itemname">Adobe Dreamweaver</div>
+        <div class="itemprice">Price: Rs.6500</div>
     </div>
     <div class="productitem"> 
       <div class="itemimage">
-      <img src="./img/S8.jpeg"  alt="product image">
+      <img src="./img/a8.png"  alt="product image">
       </div>
-      <div class="itemname">SAMSUNG M25</div>
-      <div class="itemprice">Price: Rs.70,000 </div>
+      <div class="itemname">Adobe Filter</div>
+      <div class="itemprice">Price: Rs.4000</div>
   </div>
   <div class="productitem"> 
     <div class="itemimage">
-    <img src="./img/S9.jpeg"  alt="product image">
+    <img src="./img/a9.png"  alt="product image">
     </div>
-    <div class="itemname">VIVO Y70</div>
-    <div class="itemprice">Price: Rs.90,000 </div>
+    <div class="itemname">Adobe Illustrater</div>
+    <div class="itemprice">Price: Rs.6000</div>
 </div>
 <div class="productitem"> 
   <div class="itemimage">
-  <img src="./img/S10.jpeg"  alt="product image">
+  <img src="./img/a10.png"  alt="product image">
   </div>
-  <div class="itemname">VIVO S10</div>
-  <div class="itemprice">Price: Rs.95,000 </div>
+  <div class="itemname">Adobe Spark</div>
+  <div class="itemprice">Price: Rs.4500</div>
 </div>
 <div class="productitem"> 
   <div class="itemimage">
-  <img src="./img/S11.jpeg"  alt="product image">
+  <img src="./img/a11.png"  alt="product image">
   </div>
-  <div class="itemname">ASUS ROG</div>
-  <div class="itemprice">Price: Rs.89,000 </div>
+  <div class="itemname">Adobe Lighter</div>
+  <div class="itemprice">Price: Rs.7000</div>
 </div>
 <div class="productitem"> 
   <div class="itemimage">
-  <img src="./img/S12.jpeg"  alt="product image">
+  <img src="./img/a12.jpg"  alt="product image">
   </div>
-  <div class="itemname">ASUS ROG PHONE 5</div>
-  <div class="itemprice">Price: Rs.77,000 </div>
+  <div class="itemname">Adobe Dreamweaver</div>
+  <div class="itemprice">Price: Rs.6500</div>
 </div>
           </div>
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by SITHI HAJARA.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by MEENA S.MEENA.
       </div>
     </div>
   </body>
 </html>
 
 ## PEOPLE PAGE:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -329,7 +334,7 @@ Publish the website in the given URL.
         
         </div>
         <div class="footer">
-            Copyright &#169; 2021 WeCraft, Developed by S.MEENA.
+            Copyright &#169; 2021 WeCraft, Developed by MEENA.S .
           </div>
 
       </div>
@@ -339,13 +344,13 @@ Publish the website in the given URL.
 
 ### Home Page:
 ```
-![output](./S1.png)
+![output](./s1.png)
 ### Product page:
-![output](./S2.png)
+![output](./s2.png)
 ### People page:
-![output](./S3.png)
+![output](./s3.png)
 ### Contact us page:
-![output](./S4.png)
+![output](./s4.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
