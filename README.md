@@ -342,15 +342,15 @@ Publish the website in the given URL.
       </html>
 ## OUTPUT:
 
-### Home Page:
 ```
-![output](./s1.png)
-### Product page:
-![output](./s2.png)
-### People page:
+### Home Page:
 ![output](./s3.png)
-### Contact us page:
+### Product page:
 ![output](./s4.png)
+### People page:
+![output](./s1.png)
+### Contact us page:
+![output](./s2.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
