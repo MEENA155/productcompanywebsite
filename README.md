@@ -348,9 +348,9 @@ Publish the website in the given URL.
 ### Product page:
 ![output](/images/s4.png)
 ### People page:
-![output](./s1.png)
+![output](/images/s1.png)
 ### Contact us page:
-![output](./s2.png)
+![output](/images/s2.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
