@@ -344,9 +344,9 @@ Publish the website in the given URL.
 
 ```
 ### Home Page:
-![output](/s3.PNG)
+![output](./images/s3.PNG)
 ### Product page:
-![output](./s4.png)
+![output](/images/s4.png)
 ### People page:
 ![output](./s1.png)
 ### Contact us page:
