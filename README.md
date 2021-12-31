@@ -344,7 +344,7 @@ Publish the website in the given URL.
 
 ```
 ### Home Page:
-![output](./images/s3.PNG)
+![output](./images/s3.png)
 ### Product page:
 ![output](/images/s4.png)
 ### People page:
